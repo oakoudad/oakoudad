@@ -8,5 +8,5 @@
 
 [![42 Profile Card](http://mediaplus.ma/oakoudad13.svg )](https://mediaplus.ma)
 
-[![Top Langs](https://mediaplus.ma/oakoudadLang.svg)](https://mediaplus.ma)
+[![Top Langs](https://mediaplus.ma/oakoudadLang.svg?dd)](https://mediaplus.ma)
 
