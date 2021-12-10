@@ -7,3 +7,6 @@
 # 42 Cursus
 
 [![42 Profile Card](http://mediaplus.ma/oakoudad13.svg )](https://mediaplus.ma)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oakoudad)](https://github.com/anuraghazra/github-readme-stats)
+
