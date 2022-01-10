@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently  a student at 1337 Khouribga (42 Network).
-- 🌐 WEBSITE: [twiter](https://mediaplus.ma)
+- 🌐 WEBSITE: [Click me](https://mediaplus.ma)
 - 🌱 I’m currently Freelancer and working on 42 Projects: 
 # 42 Cursus
 
