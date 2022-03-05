@@ -6,7 +6,7 @@
 - 🌱 I’m currently Freelancer and working on 42 Projects: 
 # 42 Cursus
 
-[![42 Profile Card](http://mediaplus.ma/oakoudad13.svg )](https://mediaplus.ma)
+[![42 Profile Card](http://mediaplus.ma/oakoudad13.svg?id=08 )](https://mediaplus.ma)
 
 [![Top Langs](https://mediaplus.ma/oakoudadLang.svg?id=08)](https://mediaplus.ma)
 
